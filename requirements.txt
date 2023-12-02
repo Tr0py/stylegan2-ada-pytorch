@@ -1,0 +1,12 @@
+click==8.1.7
+imageio==2.33.0
+lmdb==1.4.1
+numpy==1.26.2
+Pillow==10.1.0
+Pillow==10.1.0
+psutil==5.9.6
+pyspng==0.1.1
+Requests==2.31.0
+scipy==1.11.4
+torch==2.1.1
+tqdm==4.65.0

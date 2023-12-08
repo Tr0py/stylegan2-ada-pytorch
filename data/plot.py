@@ -8,7 +8,7 @@ parser.add_argument('csv_files', nargs='+', help='Paths to CSV files')
 args = parser.parse_args()
 
 # Create a figure with specified size
-fig, ax = plt.subplots(figsize=(5, 3))
+fig, ax = plt.subplots(figsize=(4, 2.5), layout="constrained")
 
 # Loop through each CSV file
 for csv_file in args.csv_files:
